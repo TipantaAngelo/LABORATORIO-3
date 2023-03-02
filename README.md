@@ -35,6 +35,7 @@
 6. CONCLUSIONES
 
     Los relés eléctricos son dispositivos esenciales en la protección y el control de sistemas eléctricos. Estos dispositivos se utilizan para detectar fallas y proteger los equipos eléctricos contra daños, así como para controlar el flujo de energía y automatizar procesos en una amplia gama de aplicaciones industriales.
+    
     En conclusión, los relés eléctricos son dispositivos esenciales en la protección y el control de sistemas eléctricos, y su uso es fundamental en una amplia variedad de aplicaciones industriales. La elección del tipo de relé a utilizar dependerá de las necesidades específicas de cada aplicación. Es importante contar con un diseño adecuado y una selección correcta del tipo de relé para asegurar el correcto funcionamiento del sistema eléctrico y garantizar la seguridad del equipo y de las personas involucradas.
     
 7. BIBLIOGRAFIA
