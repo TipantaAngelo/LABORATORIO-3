@@ -4,17 +4,15 @@
 
     1.1 OBJETIVOS PRINCIPAL
 
-    •	Experimentar cuales son las cualidades de un fototransistor y entender su funcionamiento que tiene dentro de un circuito creado.
+    •	Analizar el video del funcionamiento del circuito y utilizar la ingeniería inversa para comprender su funcionamiento así como que función realiza cada componente del mismo
     
      1.2 OBJETIVO ESPECIFICO
      
-    •	Ver el funcionamiento del fototransistor con la luz del día
+    •	Replicar el circuito visto para observar el funcionamiento y conocer cada uno de los elementos utilizados.
         
-    •	Polarizar el fototransistor en su pin emisor
+    •	Realizar la investigación de cada uno de los elementos utilizados en el circuito para tener claro su funcionamiento.
         
-    •	Utilizar una fotocelda para desactivar constantemente el transistor
-        
-    •	Utilizar potenciómetro y resistencia para tener una señal positiva
+    •	Aplicar los conocimientos sobre fotoceldas y potenciometros adquiridos en el anterior proyecto.
 
 2. MARCO TEORICO
 
